@@ -41,7 +41,7 @@ CONTRIBUTING.rst for additional details.
 
 License
 =======
-.. image:: http://creativecommons.org/publicdomain/mark/1.0/
-This work is free of known copyright restrictions.
+.. image:: https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png
+
 
 
