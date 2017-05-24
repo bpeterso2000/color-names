@@ -41,7 +41,6 @@ CONTRIBUTING.rst for additional details.
 
 License
 =======
-.. image:: https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png
-
+This work is free of known copyright restrictions.
 
 
