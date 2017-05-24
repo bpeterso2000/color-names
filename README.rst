@@ -2,10 +2,10 @@
 JSON Color Names
 ################
 
+*A curated collection of color names to RGB hex code mappings*
+
 .. image:: https://travis-ci.org/bpeterso2000/color-names.svg?branch=master
     :target: https://travis-ci.org/bpeterso2000/color-names
-
-*A curated collection of color names to RGB hex code mappings*
 
 Language Agnostic
 =================
