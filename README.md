@@ -1,4 +1,5 @@
-#JSON Color Names
+JSON Color Names
+================
 
 _A curated collection of color names to RGB hex code mappings_
 
