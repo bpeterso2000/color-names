@@ -23,7 +23,7 @@ Styles
 | [CSS](https://draft)                     | Legal color names in CSS 4.              |                                          |
 | [Crayons](http://www.crayola.com/explore-colors) | Crayola (R) Crayon Colors.               | [Crayola](http://www.crayola.com/)       |
 | [Chalk](https://designpieces.com/2014/02/chalkboard-look-and-feel/) | Hipster chalkboard look and feel.        | [Nick Georgiou](https://designpieces.com/author/nick/) |
-| [Nick Georgiou ](https://designpieces.com/author/nick/) [Nick Georgiou ](https://designpieces.com/author/nick/)[Better Colors](http://clrs.cc/) | A nicer color palette for the web.       | [MRMRS](http://mrmrs.cc/)                |
+| [Better Colors](http://clrs.cc/)         | A nicer color palette for the web.       | [MRMRS](http://mrmrs.cc/)                |
 
 
 Tests
