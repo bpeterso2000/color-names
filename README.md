@@ -22,7 +22,7 @@ Styles
 | [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) | A bright theme with pastel colors.       | [Chris Kempson](https://github.com/chriskempson) |
 | [HTML](https://www.webstandards.org/learn/reference/charts/color_names/) | Legal color names in HTML 4, XHTML 1.0, 1.1 |                                          |
 | [CSS](https://draft)                     | Legal color names in CSS 4.              |                                          |
-| [Crayons](http://www.crayola.com/explore-colors) | Crayola (R) Crayon Colors.               | [Crayola](http://www.crayola.com/)       |
+| [Crayons](http://www.crayola.com/explore-colors) | Crayola (R) crayon colors.               | [Crayola](http://www.crayola.com/)       |
 | [Chalk](https://designpieces.com/2014/02/chalkboard-look-and-feel/) | Hipster chalkboard look and feel.        | [Nick Georgiou](https://designpieces.com/author/nick/) |
 | [Better Colors](http://clrs.cc/)         | A nicer color palette for the web.       | [MRMRS](http://mrmrs.cc/)                |
 
