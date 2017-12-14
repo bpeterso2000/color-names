@@ -12,7 +12,7 @@ setup(
     author='Brian Peterson',
     author_email='bpeterso2000@yahoo.com',
 
-    description='A curated collection of color names to RGB hex code mappings',
+    description='A curated collection of color name, style & theme hex codes.',
 
     packages=find_packages(include=['color-names']),
     include_package_data=True,
