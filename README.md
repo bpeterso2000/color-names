@@ -20,8 +20,8 @@ All JSON style files are located in the [color-names](https://github.com/bpeters
 | [Solarized](http://ethanschoonover.com/solarized) | Precision colors for machines and people. | [Ethan Schoonover](http://ethanschoonover.com/) |
 | [Monokai](https://github.com/tomasr/molokai) | A port of the theme for TextMate.        | [Wimer Hazenberg](https://www.monokai.nl/) |
 | [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) | A bright theme with pastel colors.       | [Chris Kempson](https://github.com/chriskempson) |
-| [HTML](https://www.webstandards.org/learn/reference/charts/color_names/) | Legal color names in HTML 4, XHTML 1.0, 1.1 |                                          |
-| [CSS](https://www.w3.org/TR/css-color-4/#named-colors)                     | Legal color names in CSS 4.              |                                          |
+| [HTML](https://www.webstandards.org/learn/reference/charts/color_names/) | Legal color names in HTML 4, XHTML 1.0, 1.1 |                                          | [W3C](https://www.w3.org/) |
+| [CSS](https://www.w3.org/TR/css-color-4/#named-colors)                     | Legal color names in CSS 4.              |                                          | [W3C](https://www.w3.org/) |
 | [Crayons](http://www.crayola.com/explore-colors) | Crayola (R) crayon colors.               | [Crayola](http://www.crayola.com/)       |
 | [Chalk](https://designpieces.com/2014/02/chalkboard-look-and-feel/) | Hipster chalkboard look and feel.        | [Nick Georgiou](https://designpieces.com/author/nick/) |
 | [Better Colors](http://clrs.cc/)         | A nicer color palette for the web.       | [MRMRS](http://mrmrs.cc/)                |
