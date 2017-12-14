@@ -13,7 +13,7 @@ JSON format.
 
 Styles
 ------
-*All JSON style files are located in the [color-names](https://github.com/bpeterso2000/color-names/tree/master/color-names) directory.*
+All JSON style files are located in the [color-names](https://github.com/bpeterso2000/color-names/tree/master/color-names) directory.
 
 | Color Style                              | Description                              | Created By                               |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
