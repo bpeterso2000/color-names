@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='color-names',
-    version='1.1.1',
-    url='http://github.com/bpetreso2000/color-names',
+    version='1.1.2',
+    url='http://github.com/bpeterso2000/color-names',
     keywords=[
         'color', 'colour', 'colors' 'colours', 'names', 'hex', 'css',
         'html', 'themes', 'styles', 'standards', 'ansi', '256', 'truecolor',
