@@ -1,0 +1,3 @@
+include LICENSE README.md
+recursive-include color-names *.json
+recursive-include tests *.py
