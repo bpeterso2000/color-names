@@ -1,15 +1,14 @@
 JSON Color Names
 ================
 
-_A curated collection of color names to RGB hex code mappings_
+_A curated collection of color name, style & theme hex codes._
 
 ![https://travis-ci.org/bpeterso2000/color-names](https://travis-ci.org/bpeterso2000/color-names.svg?branch=master)
 
 
 Language Agnostic
 -----------------
-This project is language agnostic; all color mappings are stored in
-JSON format.
+This project is language agnostic; all color mappings are stored in JSON format.
 
 Styles
 ------
