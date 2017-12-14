@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='color-names',
-    version='1.1.2',
+    version='1.1.3',
     url='http://github.com/bpeterso2000/color-names',
     keywords=[
         'color', 'colour', 'colors' 'colours', 'names', 'hex', 'css',
